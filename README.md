@@ -26,7 +26,7 @@ This program is designed for **daily mastery**. Each day includes:
 
 | Day | Lesson Title | Lesson Link | ✅ Complete? |
 |-----|--------------|-------------|--------------|
-| Day 1 | Introductions & “Ser” | [Day 1 Lesson](#) | [ ] |
+| Day 1 | Introductions & “Ser” | [Day 1 Lesson](https://github.com/dylanleonard-1/Spanish-mastery-/blob/main/Day1_Introductions_&_Ser.md) | [ ] |
 | Day 2 | Greetings & Goodbyes | [Day 2 Lesson](#) | [ ] |
 | Day 3 | Question Words: Who, What, Where | [Day 3 Lesson](#) | [ ] |
 | Day 4 | Numbers, Age & Time | [Day 4 Lesson](#) | [ ] |
