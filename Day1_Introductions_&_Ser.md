@@ -1,97 +1,117 @@
-# Fluency Bootcamp – Day 1: Introductions & “Ser” (EXTENDED EDITION)
+# Fluency Bootcamp – Day 1: Introductions & “Ser”
 
 ---
 
-## VOCABULARY – Introductions, Identity, and Personal Info (Quizlet Format)
-
-hola – hello  
-adiós – goodbye  
-¿cómo estás? – how are you?  
-estoy bien – I’m good  
-estoy mal – I’m bad  
-más o menos – so-so  
-gracias – thank you  
-por favor – please  
-me llamo – my name is  
-¿cómo te llamas? – what’s your name?  
-yo soy – I am  
-tú eres – you are (informal)  
-él es – he is  
-ella es – she is  
-nosotros somos – we are  
-ellos son – they are  
-usted es – you are (formal)  
-ustedes son – you all are  
-mucho gusto – nice to meet you  
-encantado / encantada – delighted  
-¿de dónde eres? – where are you from?  
-soy de… – I’m from…  
-¿cuántos años tienes? – how old are you?  
-tengo ___ años – I am ___ years old  
-¿qué te gusta? – what do you like?  
-me gusta… – I like…  
-¿cómo se dice ___ en español? – how do you say ___ in Spanish?  
-no entiendo – I don’t understand  
-puedes repetir, por favor – can you repeat, please  
-hasta luego – see you later  
-nos vemos – see you  
-hasta mañana – see you tomorrow  
-chao – bye  
-igualmente – likewise  
+## Lesson Objective:
+Learn to introduce yourself, say where you're from, and describe identity using the verb **ser**. You’ll also practice greetings, farewells, and polite expressions to handle real conversations from Day 1.
 
 ---
 
-## GRAMMAR – The Verb “Ser” (to be)
+## Vocabulary – Introductions, Identity, and Polite Expressions
 
-### Conjugation Chart:
+| Spanish | English |
+|--------|---------|
+| hola | hello |
+| adiós | goodbye |
+| ¿cómo estás? | how are you? |
+| estoy bien | I’m good |
+| estoy mal | I’m bad |
+| más o menos | so-so |
+| gracias | thank you |
+| por favor | please |
+| me llamo | my name is |
+| ¿cómo te llamas? | what’s your name? |
+| yo soy | I am |
+| tú eres | you are (informal) |
+| él es / ella es | he is / she is |
+| nosotros somos | we are |
+| ellos son | they are |
+| usted es | you are (formal) |
+| ustedes son | you all are |
+| mucho gusto | nice to meet you |
+| encantado / encantada | delighted |
+| ¿de dónde eres? | where are you from? |
+| soy de… | I’m from… |
+| ¿cuántos años tienes? | how old are you? |
+| tengo ___ años | I am ___ years old |
+| ¿qué te gusta? | what do you like? |
+| me gusta… | I like… |
+| no entiendo | I don’t understand |
+| puedes repetir | can you repeat |
+| hasta luego | see you later |
+| nos vemos | see you |
+| hasta mañana | see you tomorrow |
+| chao | bye |
+| igualmente | likewise |
 
-| Pronoun | Ser |
+---
+
+## Grammar Focus: The Verb "Ser"
+
+### Present Tense Conjugation:
+
+| Subject | Ser |
 |--------|-----|
 | yo | soy |
 | tú | eres |
 | él / ella / usted | es |
-| nosotros | somos |
-| ustedes / ellos / ellas | son |
+| nosotros / nosotras | somos |
+| ellos / ellas / ustedes | son |
 
 ---
 
-### Fill-in-the-Blank:
-1. Yo ___ Dylan.  
-2. Tú ___ de Chicago.  
-3. Él ___ mi profesor.  
-4. Nosotros ___ músicos.  
-5. Ellas ___ ingenieras.  
-6. ¿Quién ___ ella?  
-7. ¿Qué ___ eso?  
-8. Ellos ___ mis compañeros de clase.
+### Practice Sentences:
+
+- Yo soy estudiante.  
+- Ella es doctora.  
+- Nosotros somos amigos.  
+- ¿Tú eres de Perú?  
+- Ellos son músicos.
 
 ---
 
-## SHORT WRITING PROMPT
+## Writing Prompt:
 
-Write a 10-sentence paragraph introducing yourself. Include:
-- Name, age, where you're from
-- Likes/dislikes
-- Describe yourself and a friend using **ser**
-- End with a goodbye phrase
-
----
-
-## TRANSLATION PRACTICE – English to Spanish
-
-1. My name is Dylan and I’m from Chicago.  
-2. She is a teacher and he is a student.  
-3. We are friends.  
-4. I am 21 years old.  
-5. I like music and Spanish.  
-6. Nice to meet you, see you later!
+Write a **10-sentence paragraph** introducing yourself. Include:
+- Your name
+- Where you’re from
+- How old you are
+- What you like
+- Describe a friend using **ser**
+- Use greetings and farewells to open and close
 
 ---
 
-## BONUS: “Gustar” Practice
+## Translation Practice:
 
-1. Me gusta la música.  
+Translate the following into Spanish:
+- Hello, my name is Dylan.  
+- I am from the United States.  
+- I am 21 years old.  
+- I like music.  
+- She is my friend.  
+- Nice to meet you. See you later!
+
+---
+
+## Bonus Drill – “Gustar” Sentences:
+
+1. ¿Qué te gusta hacer?  
 2. ¿Te gusta el español?  
-3. Me gustan los tacos.  
+3. Me gusta la música.  
 4. No me gusta correr.  
-5. ¿Qué te gusta hacer en tu tiempo libre?
+5. Me gustan los tacos y el cine.
+
+---
+
+## Linked Quizlet Practice Sets
+
+- [Vocabulary Flashcards – Day 1](#link-to-your-quizlet-vocab-set)
+- [Written Quiz – Day 1](#link-to-your-written-quiz-quizlet)
+- [Verbal Drill Cards – Day 1](#link-to-your-verbal-practice-quizlet)
+
+> Replace the `#link-to-your...` with your actual Quizlet links once created.
+
+---
+
+End of Day 1 `readme.md`
