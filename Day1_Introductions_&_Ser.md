@@ -106,9 +106,9 @@ Translate the following into Spanish:
 
 ## Linked Quizlet Practice Sets
 
-- [Vocabulary Flashcards – Day 1](#link-to-your-quizlet-vocab-set)
-- [Written Quiz – Day 1](#link-to-your-written-quiz-quizlet)
-- [Verbal Drill Cards – Day 1](#link-to-your-verbal-practice-quizlet)
+- [Vocabulary Flashcards – Day 1](https://quizlet.com/study-guides/c4931b35-ffdc-400d-93dc-12704f3337c9?i=4mqc80&x=10qY)
+- [Written Quiz – Day 1](https://quizlet.com/study-guides/724ca440-03cb-4766-9a27-eae16fc76b2d?i=4mqc80&x=10qY)
+- [Verbal Drill Cards – Day 1](https://quizlet.com/study-guides/eb436743-546a-4e5f-a48b-2f7456f677ca?i=4mqc80&x=10qY)
 
 > Replace the `#link-to-your...` with your actual Quizlet links once created.
 
